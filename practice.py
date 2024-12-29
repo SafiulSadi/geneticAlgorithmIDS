@@ -11,3 +11,6 @@ print(train_data.head())
 print(test_data.head())
 print(f"Total number of rows in training data: {len(train_data)}")
 print(f"Total number of rows in test data: {len(test_data)}")
+
+a = [0, 2, 4, 9, 11, 12, 13, 16, 17, 18, 22, 25, 26, 28, 29, 30, 35, 37, 38, 39, 40, 41]
+print(len(a))
