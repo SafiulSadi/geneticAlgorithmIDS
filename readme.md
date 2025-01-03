@@ -40,4 +40,41 @@ Classification Report:
    macro avg       0.87      0.87      0.86     22544       
 weighted avg       0.88      0.86      0.86     22544       
 
+nsl-kdd/randomForest.py
+43
+gen     nevals
+0       50
+1       24
+2       26    
+3       23    
+4       36    
+5       37    
+6       25
+7       24
+8       34
+9       32
+10      18
+11      35    
+12      29    
+13      30    
+14      29    
+15      34    
+16      26    
+17      29    
+18      32    
+19      33    
+20      30    
+Accuracy: 0.8283356990773598
+Classification Report:
+               precision    recall  f1-score   support
+
+           0       0.72      0.97      0.83      
+9711
+           1       0.97      0.72      0.83     12833
+
+    accuracy                           0.83     22544
+   macro avg       0.85      0.85      0.83     22544
+weighted avg       0.86      0.83      0.83     22544
+
 ```
+
