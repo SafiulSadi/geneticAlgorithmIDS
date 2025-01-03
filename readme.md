@@ -26,4 +26,18 @@ Classification Report:
     accuracy                           0.86     22544
    macro avg       0.87      0.87      0.86     22544
 weighted avg       0.88      0.86      0.86     22544
+
+Selected Features: [0, 1, 2, 3, 4, 5, 6, 7, 12, 13, 14, 16, 
+17, 18, 19, 20, 21, 24, 28, 29, 33, 36, 40, 41]
+Accuracy: 0.859208658623137
+Classification Report:
+               precision    recall  f1-score   support
+
+           0       0.76      0.97      0.86      9711       
+           1       0.97      0.77      0.86     12833       
+
+    accuracy                           0.86     22544       
+   macro avg       0.87      0.87      0.86     22544       
+weighted avg       0.88      0.86      0.86     22544       
+
 ```
