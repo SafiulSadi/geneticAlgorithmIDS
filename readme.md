@@ -76,5 +76,39 @@ Classification Report:
    macro avg       0.85      0.85      0.83     22544
 weighted avg       0.86      0.83      0.83     22544
 
+
+ect/scientificProject/nsl-kdd/randomForest2.py   
+43
+Selected Features: [2, 3, 4, 6, 7, 8, 12, 15, 18, 19, 20, 26, 27, 28, 29, 33, 36, 37, 38, 39, 41] 
+Total features: (21)
+Training Time: 1279.6318717002869 seconds or 21.327197861671447 minutes
+Accuracy: 0.865374378992193
+Classification Report:
+               precision    recall  f1-score   support
+
+           0       0.77      0.97      0.86      
+9711
+           1       0.97      0.79      0.87     12833
+
+    accuracy                           0.87     22544
+   macro avg       0.87      0.88      0.87     22544
+weighted avg       0.89      0.87      0.87     22544
+
+Training Time: 0.3687260150909424 seconds or 0.0061454335848490395 minutes
+Accuracy: 0.8703424414478353
+Classification Report:
+               precision    recall  f1-score   support
+
+           0       0.78      0.97      0.87      
+9711
+           1       0.97      0.79      0.87     12833
+
+    accuracy                           0.87     22544
+   macro avg       0.88      0.88      0.87     22544
+weighted avg       0.89      0.87      0.87     22544
+
+Training Time: 6.682085037231445 seconds or 0.11136808395385742 minutes
+
+
 ```
 
